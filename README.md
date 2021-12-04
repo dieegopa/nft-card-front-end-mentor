@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+NFT Card Component Challenge from Frontend Mentor made with React and Tailwind Css.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
